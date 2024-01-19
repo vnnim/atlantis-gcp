@@ -1,7 +1,7 @@
 terraform {
   backend "gcs" {
-    bucket = "tekanaid-tf-state-prod"
-    prefix = "terraform/state"
+    bucket = "rfx-us-cl101pr-lvs-121260099-fs1"
+    prefix = "LVS-from-PR/atlantis"
   }
   required_providers {
     google = {
