@@ -1,7 +1,7 @@
 variable "project" {
   description = "The project ID"
   type = string
-  default = "terraformprojects-365816"
+  default = "upheld-rain-404605"
 }
 
 variable "region" {
