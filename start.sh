@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 URL="https://a614-34-170-219-36.ngrok-free.app"
 SECRET="hZ19pPldbnWzmBsT"
-TOKEN="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"
+TOKEN="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"
 USERNAME="vnnim"
 REPO_ALLOWLIST="github.com/vnnim/atlantis-gcp" #GitHub example: REPO_ALLOWLIST="github.com/runatlantis/atlantis"
 # Any environment variables required for auth
